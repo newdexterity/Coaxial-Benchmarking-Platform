@@ -1,0 +1,12 @@
+[Centre]
+Centre = "172.22.11.2"
+
+[Left]
+Left = "172.22.11.10"
+
+[My Computer]
+My Computer = "192.168.187.1"
+
+[Right]
+Right = "172.22.11.18"
+
