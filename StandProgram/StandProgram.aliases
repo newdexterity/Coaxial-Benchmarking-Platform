@@ -5,7 +5,7 @@ Centre = "172.22.11.2"
 Left = "172.22.11.10"
 
 [My Computer]
-My Computer = "192.168.187.1"
+My Computer = "172.22.11.17"
 
 [Right]
 Right = "172.22.11.18"
